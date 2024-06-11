@@ -64,7 +64,7 @@ The home interface serves as a central dashboard, providing an overview of the a
 
 This feature allows users to import datasets from their computer or create new datasets. It also includes functionalities to define the target column and its type for classification or regression problems.
 
-![Data-Import](src/data-import)
+![Data-Import](src/data-import.png)
 
 ### Initial Data Visualization
 
@@ -108,7 +108,7 @@ This project successfully delivers a complete and user-friendly application for 
 
 - **[Sabbahi Mohamed Amine](https://github.com/amine-sabbahi)**
 - **[Boufarhi Ayman](https://github.com/aymanboufarhi)**
-- **Khattabi Idriss**
+- **[Khattabi Idriss](https://github.com/drisskhattabi6)**
 
 ---
 
