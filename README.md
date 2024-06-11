@@ -32,11 +32,11 @@ This application aims to provide a practical experience in programming and machi
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/data-analysis-app.git
+    git clone https://github.com/amine-sabbahi/Python-Data-Analysis-App.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd data-analysis-app
+    cd Python-Data-Analysis-App
     ```
 3. Install the required dependencies:
     ```sh
@@ -47,7 +47,7 @@ This application aims to provide a practical experience in programming and machi
 
 1. Run the application:
     ```sh
-    python main.py
+    python app.py
     ```
 2. Use the intuitive interface to import datasets, visualize data, and apply machine learning algorithms.
 3. Follow the on-screen instructions to navigate through the different functionalities of the application.
@@ -58,34 +58,56 @@ This application aims to provide a practical experience in programming and machi
 
 The home interface serves as a central dashboard, providing an overview of the application and quick access buttons to different sections like data import, visualization, data processing, machine learning, and documentation.
 
+![main-interface](src/Main-interface.png)
+
 ### Data Import
 
 This feature allows users to import datasets from their computer or create new datasets. It also includes functionalities to define the target column and its type for classification or regression problems.
+
+![Data-Import](src/data-import)
 
 ### Initial Data Visualization
 
 Provides initial exploratory data analysis through illustrative charts, helping users understand their target variable's nature.
 
+![Data Visualization](src/data-vis.png)
+
 ### Data Processing
 
 Interactive platform for data preparation, including feature selection, handling missing values, data encoding, and feature scaling.
 
+![Data Processing](src/data-process.png)
+
 ### Machine Learning Algorithms and Model Validation
 
 Users can apply various machine learning algorithms and validate model performance through detailed metrics like accuracy, precision, recall, and F1 score. The interface also allows model selection and visualization of results.
+#### Classification problems
+![Classification problems](src/ml-classificaion.png)
+
+#### Classification Result Visualization
+![Classification Result Vis](src/class-result.png)
+
+#### Regression problems
+![Regression problems](src/ml-regression.png)
+
+#### Regression Result Visualization
+![Regression vis](src/regression-results.png)
 
 ### Documentation and Tutorials
 
 Comprehensive documentation and tutorial videos are available to guide users through the application functionalities and machine learning concepts.
 
+![watch](src/watch.png)
+
+![doc](src/doc.png)
 ## Conclusion
 
 This project successfully delivers a complete and user-friendly application for data analysis and machine learning, providing valuable hands-on experience for students and users in the field of data science.
 
 ## Contributors
 
-- **[Sabbahi Mohamed Amine](github.com/amine-sabbahi)**
-- **Boufarhi Ayman**
+- **[Sabbahi Mohamed Amine](https://github.com/amine-sabbahi)**
+- **[Boufarhi Ayman](https://github.com/aymanboufarhi)**
 - **Khattabi Idriss**
 
 ---
