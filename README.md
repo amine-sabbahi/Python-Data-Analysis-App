@@ -1,6 +1,7 @@
 # Data Analysis Desktop Application
 
 This project is a desktop application developed in Python using CustomTkinter for data analysis and implementation of Machine Learning algorithms. The application provides a user-friendly interface for students and users to analyze both qualitative and quantitative datasets, utilizing various Machine Learning algorithms.
+This project was completed as an end-of-module project for the Advanced Programming (Python) course at the University of Abdelmalek Essaâdi Faculty of Sciences and Techniques Tangier.
 
 ## Table of Contents
 
@@ -112,8 +113,8 @@ This project successfully delivers a complete and user-friendly application for 
 
 ---
 
-**Abdelmalek Essaadi University** Faculty of Sciences and Techniques
+**Abdelmalek Essaadi University** Faculty of Sciences and Techniques Tangier
    - Department : Computer Engineering
    - Master : AI & DS
-   - Module : Advanced Databases
-   - Framed by : Pr. Ezziyyani Mostafa
+   - Module : Advanced Programming Language (Python)
+   - Framed by : Pr. Sanae KHALI ISSA
